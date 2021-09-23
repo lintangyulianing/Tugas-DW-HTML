@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  Nama          : Lintang Yulianingtyas
+</br>
+  NPM           : 4520210057
+</br>
+  Mata Kuliah   : Desain Web A
+</br>
+</br>
+</head>
+<body>
+
+    <html>
+    <head>
+        <caption>PENDAFTARAN WEBINAR</caption>
+        <thead>
+</head>
+<body>
+ <form>
+  <table>
+   <tr>
+    <td>Nama :</td>
+    <td><input type="text"></td>
+   </tr>
+   <tr>
+    <td>Password :</td>
+    <td><input type="password"></td>
+   </tr>
+   <tr>
+    <td>Jenis Kelamin :</td>
+    <td>
+     <input type="radio" name="Jenis Kelamin"> Laki-Laki
+     <input type="radio" name="Jenis Kelamin"> Perempuan
+    </td>
+   </tr>
+   <tr>
+    <td>Email :</td>
+    <td><input type="email"></td>
+   </tr>
+   <tr>
+    <td>No. Telepon :</td>
+    <td>
+     <select>
+      <option>62</option>
+     </select>
+     <input type="phone">
+    </td>
+   </tr>
+   <tr>
+    <td><input type="submit" value="Submit"></td>
+   </tr>
+  </table>
+ </form>
+</body>
+</html>
