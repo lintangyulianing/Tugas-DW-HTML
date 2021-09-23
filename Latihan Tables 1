@@ -5,7 +5,7 @@
 </br>
   NPM           : 4520210057
 </br>
-  Mata Kuliah   : Desain Web A 
+  Mata Kuliah   : Desain Web A
 </br>
 </br>
 <body bgcolor="Magenta"></body>
@@ -13,7 +13,7 @@
 <body>
 
 <table>
-     <caption>BIODATA SINGKAT</caption>
+     <strong>BIODATA SINGKAT</strong>
      <style>
 			table, tr, th, td {
 			border:2px solid black;
